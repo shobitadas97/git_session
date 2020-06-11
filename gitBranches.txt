@@ -1,3 +1,11 @@
 master->default branch name
 branch->
 master points the recent commit
+
+
+branches commands
+->first cmd:git pull
+->cmd:git branch =>it showsmaster
+->next cmd:git branch branchName  git branch f1 =>it creastes new branch master based on the recentcommit
+->cmd:git branch =>it shows f1 and master
+->siwtching between branches  cmd:git checkout branchName   ex:git checkout f1
